@@ -1159,7 +1159,7 @@ scrollbar {
     border: none;
     border-radius: 6px;
     background-clip: padding-box;
-    background-color: #4ED464; }
+    background-color: #949494; }
     scrollbar slider:disabled {
       background-color: transparent; }
   scrollbar.fine-tune slider {
